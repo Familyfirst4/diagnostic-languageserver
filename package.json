@@ -29,5 +29,9 @@
     "@types/node": "^11.11.3",
     "ignore": "^5.1.8",
     "typescript": "^3.8.3"
+  },
+  "funding": {
+    "type": "opencollective",
+    "url": "https://opencollective.com/<YOUR-COLLECTIVE-SLUG>"
   }
 }
